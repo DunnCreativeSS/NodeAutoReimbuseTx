@@ -1,6 +1,6 @@
 var tokenEthRate = 0.00036;
 var etherscanApiKey = 'api-here';
-var tokenAddress = "0xFaF2B0cA3A3C9AA991f7d182d99C77DF8b3fC775";
+var tokenAddress = "address-here";
 var fs = require('fs');
 var Web3 = require('web3');
 var web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:8545"));
